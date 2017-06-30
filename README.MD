@@ -10,7 +10,7 @@ Create a virtualenv and install the python dependencies:
 ```
 git clone https://github.com/gperinazzo/ProjectSCC0251.git
 cd ProjectSCC0251
-virtualenv env
+virtualenv -p python3 env
 source env/bin/activate
 pip install -r requirements.txt
 ```
