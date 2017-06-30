@@ -4,7 +4,7 @@
 ## Requirements
 To run the project, make sure you have python3 and virtualenv installed
 ```
-sudo apt-get install python3 virtualenv
+sudo apt-get install python3 python-virtualenv
 ```
 Create a virtualenv and install the python dependencies:
 ```
